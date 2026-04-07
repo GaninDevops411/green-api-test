@@ -34,10 +34,10 @@ HTML-страница с вызовами методов GREEN-API:
 4. Используйте нужные методы на странице
 
 ## Репозиторий
-Добавьте сюда ссылку на GitHub-репозиторий
+https://github.com/GaninDevops411/green-api-test
 
 ## Публичная страница
-Добавьте сюда ссылку на опубликованную HTML-страницу
+https://ganindevops411.github.io/green-api-test/
 
 ## Демо
-Добавьте сюда ссылку на видео или скриншоты
+https://drive.google.com/drive/folders/1HAHC_iw-Wg6iJ5gJ5ZUsz4yu56hyRPhz?usp=sharing
